@@ -1,0 +1,109 @@
+#bgimage {
+	background-image: url(rd.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+#images {
+	text-align: center;
+}
+
+.top {
+	padding-top: 50px;
+}
+
+
+.img-thumbnail {
+	background-color: #3A87AD !important;
+	border-color: #3A87AD ;
+}
+
+
+.content{
+    position: relative;
+    margin: 0 auto;
+    width: 70%;
+    height: auto;
+    background: ;
+}
+
+#func2 {
+	background: #3A87AD;
+	color: white;
+}
+
+#func2 .img-thumbnail {
+	background-color: white !important;
+}
+
+#func4 {
+	background: #3A87AD;
+	color: white;
+}
+
+#func4 .img-thumbnail {
+	background-color: white !important;
+}
+
+#func6 .img-thumbnail {
+	background-color: white !important;
+}
+
+a:link {
+	color: gold;
+}
+
+#func6 {
+	background: #3A87AD;
+	color: white;
+}
+
+h4 {
+	text-align: right;
+}
+
+
+@media screen and (max-width: 768px) {
+	#images {
+		display: none !important;
+	}
+
+	.btn {
+		margin: 10px !important;
+	}
+
+	h1 {
+		font-size: 28px !important;
+	}
+
+	h3 {
+		font-size: 16px !important;
+	}
+
+	#textnormal {
+		margin: 10px;
+	}
+
+	img {
+		margin: 50px;
+	}
+
+	.footer {
+		
+		margin: 0px;
+	}
+	
+	#logo {
+		display: inline !important;
+		width: 50% !important;
+	}
+
+	#topo h4 {
+		text-align: center !important;
+	}
+}
